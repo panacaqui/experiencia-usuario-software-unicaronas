@@ -1,4 +1,4 @@
-# Experiencia do Usuario de Software Unicaronas
+# Unicaronas
 
 ## Definição do projeto
 Esse projeto tem por objetivo a definição do UX-design de um software de gerenciamento de caronas universitárias. O foco principal é no acesso mobile.
