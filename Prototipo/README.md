@@ -10,7 +10,7 @@ O wireframe está disponível para acesso online a partir do link (https://app.u
 
 ## Prototipação
 
-A prototipação em si foi criada utilizando o [Fignma](https://fignma.com/). Ela terá o desenho das telas e suas
+A prototipação em si foi criada utilizando o [Fignma](https://figma.com/). Ela terá o desenho das telas e suas
 funcionalidades de maneira mais detalhada e fiel com a intereração do usuário e um fluxo de navegação definido, sempre
 levando o usuário ao seu objetivo principal.
 
