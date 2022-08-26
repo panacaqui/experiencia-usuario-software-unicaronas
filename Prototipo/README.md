@@ -19,7 +19,7 @@ segunda sendo uma melhoria do desenho a partir de avaliações externas feitas n
 
 ### **Objeto de estudos** (primeira prototipação)
 
-O protótipo inicial está disponível para acesso online a partir do link
+O protótipo inicial está disponível para acesso online a partir do link:<br>
 (https://www.figma.com/file/qCXccaGmZ11GiCfYMgPsz1/Unicaronas-Objeto-de-estudos).
 
 **Fluxo de execução**
@@ -27,10 +27,12 @@ O protótipo inicial está disponível para acesso online a partir do link
 O fluxo de execução principal está disponível [aqui](https://www.figma.com/proto/qCXccaGmZ11GiCfYMgPsz1/Unicaronas-Objeto-de-estudos?node-id=0%3A1).
 O objetivo desse fluxo principal, é de um usuário encontrar uma carona para a sua rota e enviar uma solicitação.
 
+---
+
 ### **Prototipação** (segunda prototipação com as melhorias a partir de avaliações externas)
 
 Segunda iteração, protótipo com as melhorias feitas a partir de avaliações externas está disponível para acesso online
-a partir do link (https://www.figma.com/file/hprNjUXbcOAkUJ71CWBy84/Unicaronas-Prototipa%C3%A7%C3%A3o).
+a partir do link:<br>(https://www.figma.com/file/hprNjUXbcOAkUJ71CWBy84/Unicaronas-Prototipa%C3%A7%C3%A3o).
 
 **Fluxo de execução**
 
