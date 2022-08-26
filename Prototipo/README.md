@@ -14,4 +14,10 @@ A prototipação em si foi criada utilizando o [Fignma](https://figma.com/). Ela
 funcionalidades de maneira mais detalhada e fiel com a intereração do usuário e um fluxo de navegação definido, sempre
 levando o usuário ao seu objetivo principal.
 
-O protótipo está disponível para acesso online a partir do link (https://www.figma.com/file/qCXccaGmZ11GiCfYMgPsz1/Unicaronas?node-id=0%3A1).
+O protótipo está disponível para acesso online a partir do link
+(https://www.figma.com/file/qCXccaGmZ11GiCfYMgPsz1/Unicaronas?node-id=0%3A1).
+
+### Fluxo de execução
+
+O fluxo de execução principal está disponível [aqui](https://www.figma.com/proto/qCXccaGmZ11GiCfYMgPsz1/Unicaronas?node-id=302%3A246&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=302%3A246&show-proto-sidebar=1).
+O objetivo desse fluxo principal, é de um usuário encontrar uma carona para a sua rota e enviar uma solicitação.
